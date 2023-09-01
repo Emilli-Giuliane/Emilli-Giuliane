@@ -34,5 +34,5 @@ Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023 
 ### Minhas Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-293914?style=for-the-badge&logo=Linkedin&logoColor=CDFF8C)](https://www.linkedin.com/in/emilli-giuliane-pereira-lima-b44912265/)
 <left>
-[![E-mail](https://img.shields.io/badge/-Email-293914?style=for-the-badge)](mailto:mailtoemilligiuliane@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-293914?style=for-the-badge)](mailto:emilligiuliane@gmail.com)
 
