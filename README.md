@@ -1,6 +1,6 @@
 # Meu perfil
 
-Me chamo Emilli Giuliane, tenho 21 anos e estou começando minha vida na programação agora. Sou apaixonada com programação de computadores desde meu primeiro contato com minha primeira linguagem, agora estou em busca de conhecimento para aprimorar minhas habilidades de programação.
+Me chamo Emilli, tenho 21 anos e estou começando minha vida na programação agora. Sou apaixonada com programação de computadores desde meu primeiro contato com minha primeira linguagem, agora estou em busca de conhecimento para aprimorar minhas habilidades de programação.
 
 Meus interesses pessoais são jogar videogame, ouvir todos os tipos de músicas e assistir vídeos de guaxinins na internet.
 <p align="center">
@@ -8,7 +8,7 @@ Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023 
 
 ---
 
-- Este meu GitHub é meu xodó, vai estar alojando todos meus pequenos projetos e desafios de linguagens.
+- Este meu GitHub vai estar alojando todos meus pequenos projetos e desafios de linguagens.
 ---
 ```
 
@@ -22,9 +22,7 @@ Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emilli-Giuliane&theme=transparent&bg_color=293914&border_color=CDFF8C&show_icons=true&icon_color=81DE76&title_color=81DE76&text_color=CDC0A1&hide_title=true&hide=stars)
 
-<div>
-<a href="https://github.com/Emilli-Giuliane">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilli-Giuliane&layout=compact&langs_count=7&theme=nord"/>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Emilli-Giuliane&bg_color=293914&border_color=CDFF8C&title_color=CDC0A1&text_color=81DE76)
 
 ```
 
