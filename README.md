@@ -8,7 +8,7 @@ Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023 
 
 ---
 
-- Este meu GitHub vai estar alojando todos meus pequenos projetos e desafios de linguagens.
+- Este meu GitHub é meu xodó, vai estar alojando todos meus pequenos projetos e desafios de linguagens.
 ---
 ```
 
