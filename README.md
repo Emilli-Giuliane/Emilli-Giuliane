@@ -1,6 +1,6 @@
 # Meu perfil
 
-Me chamo Emilli, tenho 21 anos e estou começando minha vida na programação agora. Sou apaixonada com programação de computadores desde meu primeiro contato com minha primeira linguagem, agora estou em busca de conhecimento para aprimorar minhas habilidades de programação.
+Me chamo Emilli Giuliane, tenho 21 anos e estou começando minha vida na programação agora. Sou apaixonada com programação de computadores desde meu primeiro contato com minha primeira linguagem, agora estou em busca de conhecimento para aprimorar minhas habilidades de programação.
 
 Meus interesses pessoais são jogar videogame, ouvir todos os tipos de músicas e assistir vídeos de guaxinins na internet.
 <p align="center">
