@@ -4,7 +4,7 @@ Me chamo Emilli, tenho 21 anos e estou começando minha vida na programação ag
 
 Meus interesses pessoais são jogar videogame, ouvir todos os tipos de músicas e assistir vídeos de guaxinins na internet.
 <p align="center">
-Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023 na faculdade Una em Contagem-MG. 
+Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023. 
 
 ---
 
