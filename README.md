@@ -17,6 +17,8 @@ Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023.
 ## Estou aprendendo...
 ---
 ![Java](https://img.shields.io/badge/java-293914?style=for-the-badge&logo=java&logoColor=CDC0A1)
+![JavaScript](https://img.shields.io/badge/java-293914?style=for-the-badge&logo=java&logoColor=CDC0A1)
+
 
 ## Meu GitHub Status
 ---
