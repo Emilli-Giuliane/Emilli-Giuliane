@@ -10,10 +10,12 @@
 </div>
 <hr>
 <h2> Estou aprendendo...</h2>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <hr>
 <h2>Meu GitHub Status</h2>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emilli-Giuliane&theme=transparent&bg_color=293914&border_color=CDFF8C&show_icons=true&icon_color=81DE76&title_color=81DE76&text_color=CDC0A1&hide_title=true&hide=stars)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Emilli-Giuliane&bg_color=293914&border_color=CDFF8C&title_color=CDC0A1&text_color=81DE76)
 <div>
@@ -22,5 +24,6 @@
 <h2>Conecte-se comigo!</h2>
 
 <h3>Minhas Redes Sociais</h3>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-293914?style=for-the-badge&logo=Linkedin&logoColor=CDFF8C)](https://www.linkedin.com/in/emilli-giuliane-pereira-lima-b44912265/)
 
