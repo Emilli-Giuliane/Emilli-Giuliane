@@ -1,4 +1,4 @@
-# Meu perfil
+<h1>Meu perfil</h1>
 <div>
   <p>Me chamo Emilli, tenho 22 anos e estou começando minha vida na programação agora. Sou apaixonada com programação de computadores desde meu primeiro contato com minha primeira linguagem, agora estou em busca de conhecimento para aprimorar minhas habilidades de programação.</p><br><br>
   <p>Meus interesses pessoais são jogar videogame, ouvir todos os tipos de músicas e assistir vídeos de papagaios na internet.</p>
@@ -26,4 +26,3 @@
 <h3>Minhas Redes Sociais</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-293914?style=for-the-badge&logo=Linkedin&logoColor=CDFF8C)](https://www.linkedin.com/in/emilli-giuliane-pereira-lima-b44912265/)
-
