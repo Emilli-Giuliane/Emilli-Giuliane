@@ -26,4 +26,4 @@
 <h3>Minhas Redes Sociais</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-293914?style=for-the-badge&logo=Linkedin&logoColor=CDFF8C)](https://www.linkedin.com/in/emilli-giuliane-pereira-lima-b44912265/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(emilligiuliane@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emilligiuliane@gmail.com)
