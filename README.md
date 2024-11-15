@@ -1,6 +1,6 @@
 <h1>Meu perfil</h1>
 <div>
-  <p>Me chamo Emilli, tenho 22 anos e estou começando minha vida na programação agora. Sou apaixonada com programação de computadores desde meu primeiro contato com minha primeira linguagem, agora estou em busca de conhecimento para aprimorar minhas habilidades de programação.</p><br><br>
+  <p>Me chamo Emilli, tenho 22 anos e estou começando minha vida na programação agora. Sou apaixonada com programação de computadores desde meu primeiro contato com minha primeira linguagem, agora estou em busca de conhecimento para aprimorar minhas habilidades de programação.</p>
 <p align="center">Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023.</p>
 <hr>
 <div>
