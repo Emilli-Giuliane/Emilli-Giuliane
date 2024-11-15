@@ -1,8 +1,6 @@
 <h1>Meu perfil</h1>
 <div>
   <p>Me chamo Emilli, tenho 22 anos e estou começando minha vida na programação agora. Sou apaixonada com programação de computadores desde meu primeiro contato com minha primeira linguagem, agora estou em busca de conhecimento para aprimorar minhas habilidades de programação.</p><br><br>
-  <p>Meus interesses pessoais são jogar videogame, ouvir todos os tipos de músicas e assistir vídeos de papagaios na internet.</p>
-</div>
 <p align="center">Estou cursando Técnico de Analise e Desenvolvimento de Sistemas desde fev/2023.</p>
 <hr>
 <div>
@@ -11,9 +9,10 @@
 <hr>
 <h2> Estou aprendendo...</h2>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <hr>
 <h2>Meu GitHub Status</h2>
 
@@ -27,3 +26,4 @@
 <h3>Minhas Redes Sociais</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-293914?style=for-the-badge&logo=Linkedin&logoColor=CDFF8C)](https://www.linkedin.com/in/emilli-giuliane-pereira-lima-b44912265/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(emilligiuliane@gmail.com)
